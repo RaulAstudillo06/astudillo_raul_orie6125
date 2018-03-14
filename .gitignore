@@ -1,0 +1,10 @@
+.*
+!.gitignore
+!.gitmodules
+!.scaffold.yaml
+
+# Python
+*.pyc
+.cache
+
+
