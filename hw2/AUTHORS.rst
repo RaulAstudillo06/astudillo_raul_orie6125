@@ -1,5 +1,0 @@
-=======
-Credits
-=======
-
-Raul Astudillo
