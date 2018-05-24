@@ -1,0 +1,36 @@
+*.py[cod~]
+# C extensions
+*.so
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# figures
+.png
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+#vim
+*.swp
+
+#bfgs optimizer
+iterate.dat
+
+docs/_build
+.pytest_cache
